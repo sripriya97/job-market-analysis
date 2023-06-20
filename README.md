@@ -2,7 +2,7 @@
 
 <h2>Data Generation - Web Scraping </h2>
 </br>
-For this project I scrapped job postings available on LinkedIn and Glassdoor for three roles - Data Scientist, Data Analyst and Business Analyst
+For this project job postings available on LinkedIn and Glassdoor were scrapped for three roles - Data Scientist, Data Analyst and Business Analyst
 Using web scraping techniques, information on job titles, companies,locations, job descriptions, and additional details like required skills, education, years of experience, salary estimates, seniority level, employment type, job function, and industries was collected. All of this information is stored in a NoSQL database, which is better suited for handling unstructured data and allows for more flexible and scalable data models.
 </br>
 <h2>EDA and Model Fitting</h2>
